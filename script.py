@@ -45,6 +45,7 @@ def fake_commits(start_date, end_date, min_commits, max_commits, skipping=False,
         # Move to the next day
         current_date += timedelta(days=1)
     
+    # Ensure the file is staged before pushing
     # Push all the changes
     git_push()
 
