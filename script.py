@@ -3,8 +3,6 @@ import random
 import subprocess
 from datetime import datetime, timedelta
 
-
-
 def git_commit(message, commit_date):
     # Stage the changes
     subprocess.run(['git', 'add', 'info.txt'])

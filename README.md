@@ -1,4 +1,4 @@
-﻿# 🌟 Git Fake Commits 🌟
+# 🌟 Git Fake Commits 🌟
 
 Feeling like your GitHub graph could use a glow-up? Say hello to **git_fake_commits**, the ultimate tool for spicing up your activity graph with authentic-looking commits!
 
